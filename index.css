@@ -115,14 +115,11 @@ button a{
 
 .groupie .card-body{
     max-height: 110px;
-    
-  /*   margin: 16px; */
     padding: 5px 0;
-    
-
-
 
 }
+
+
 .shoppingtext{
     color: var(--primary-text-color);
     
@@ -134,7 +131,6 @@ button a{
 
 
 .rightsection h2{
-   /*padding: 10px;*/
    font-weight: 700;
    font-size: 42px;
 
@@ -153,11 +149,10 @@ button a{
     
 }
 
-.lastsection .card{
+ .lastsection .cardie{
     height: 50%;
-    /* look for a better way to implement the min-width */
-    min-width: 343px;
-    max-width: 560px;
+    
+    
     max-height: 464px;
     padding-top: 36px;
     border-style: none;
@@ -168,6 +163,7 @@ button a{
 .lastsection img{
     max-height: 928px;
     max-width: 560px;
+
 }
 
 .lastsection li{
@@ -184,5 +180,5 @@ text-align: center;
 text-transform: uppercase;
 color: var(--primary-text-color);
 }
-
+ 
 
